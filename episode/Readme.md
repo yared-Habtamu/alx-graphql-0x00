@@ -1,1 +1,1 @@
-Expisiode
+Episiodes part implemented
